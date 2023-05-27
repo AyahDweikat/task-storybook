@@ -15,7 +15,8 @@
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "storybook-addon-react-view": "^0.0.2"
   },
   "scripts": {
     "dev": "vite",

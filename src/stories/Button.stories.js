@@ -6,8 +6,7 @@ export default {
   component: Button,
   tags: ['autodocs'],
   argTypes: {
-    backgroundColor: { control: 'color' },
-    color:{control: 'color'}
+    color:{control: 'color'},
   },
 };
 
@@ -19,29 +18,29 @@ export const Primary = {
   },
 };
 
-export const Secondary = {
-  args: {
-    variant:'secondary',
-    label: 'Button',
-  },
-};
+// export const Secondary = {
+//   args: {
+//     variant:'secondary',
+//     label: 'Button',
+//   },
+// };
 
-export const Text = {
-  args: {
-    variant:'text',
-    label: 'Button',
-  },
-};
-export const Large = {
-  args: {
-    size: 'large',
-    label: 'Button',
-  },
-};
+// export const Text = {
+//   args: {
+//     variant:'text',
+//     label: 'Button',
+//   },
+// };
+// export const Large = {
+//   args: {
+//     size: 'large',
+//     label: 'Button',
+//   },
+// };
 
-export const Small = {
-  args: {
-    size: 'small',
-    label: 'Button',
-  },
-};
+// export const Small = {
+//   args: {
+//     size: 'small',
+//     label: 'Button',
+//   },
+// };
