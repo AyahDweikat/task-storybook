@@ -1,0 +1,66 @@
+@storybook/cli v7.0.6
+
+info => Cleaning outputDir: C:\Users\PC\AppData\Local\Temp\chromatic--5216-c4zivlzIQ3He
+info => Loading presets
+info => Building manager..
+info => Manager built (4.47 s)
+info => Copying static files: C:\Users\PC\Downloads\FTS-Training\Storybook\New folder\test-storybook\node_modules\@storybook\manager\static at C:\Users\PC\AppData\Local\Temp\chromatic--5216-c4zivlzIQ3He\sb-common-assets
+info => Copying static files: C:\Users\PC\Downloads\FTS-Training\Storybook\New folder\test-storybook\public at C:\Users\PC\AppData\Local\Temp\chromatic--5216-c4zivlzIQ3He\
+[36mvite v4.2.2 [32mbuilding for production...[36m[39m
+
+./sb-common-assets/fonts.css doesn't exist at build time, it will remain unchanged to be resolved at runtime
+transforming...
+Use of eval in "node_modules/telejson/dist/index.mjs" is strongly discouraged as it poses security risks and may cause issues with minification.
+Use of eval in "node_modules/telejson/dist/index.mjs" is strongly discouraged as it poses security risks and may cause issues with minification.
+[32m✓[39m 567 modules transformed.
+rendering chunks...
+computing gzip size...
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[32massets/direction-94a9917f.svg                       [39m[1m[2m  1.28 kB[22m[1m[22m
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[32massets/flow-275142c6.svg                            [39m[1m[2m  1.39 kB[22m[1m[22m
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[32massets/code-brackets-9ef6443e.svg                   [39m[1m[2m  1.46 kB[22m[1m[22m
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[32massets/comments-f15a6837.svg                        [39m[1m[2m  1.53 kB[22m[1m[22m
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[32massets/repo-fb4ece47.svg                            [39m[1m[2m  1.64 kB[22m[1m[22m
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[32massets/plugin-57148314.svg                          [39m[1m[2m  2.17 kB[22m[1m[22m
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[32massets/stackalt-2ad81543.svg                        [39m[1m[2m  2.55 kB[22m[1m[22m
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[32massets/colors-ac9401f3.svg                          [39m[1m[2m  8.51 kB[22m[1m[22m
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[32miframe.html                                         [39m[1m[2m 12.78 kB[22m[1m[22m
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[35massets/Button.stories-b44ee500.css                  [39m[1m[2m  0.74 kB[22m[1m[22m[2m │ gzip:   0.32 kB[22m
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[36massets/preview-1e5c59db.js                          [39m[1m[2m  0.19 kB[22m[1m[22m[2m │ gzip:   0.19 kB[22m[2m │ map:     0.64 kB[22m
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[36massets/index-d475d2ea.js                            [39m[1m[2m  0.21 kB[22m[1m[22m[2m │ gzip:   0.17 kB[22m[2m │ map:     0.84 kB[22m
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[36massets/index-a42a4a37.js                            [39m[1m[2m  0.25 kB[22m[1m[22m[2m │ gzip:   0.20 kB[22m[2m │ map:     0.10 kB[22m
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[36massets/WithTooltip-FBT32F6Q-783ae14e.js             [39m[1m[2m  0.42 kB[22m[1m[22m[2m │ gzip:   0.26 kB[22m[2m │ map:     0.11 kB[22m
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[36massets/syntaxhighlighter-QTQ2UBB4-0c6bd889.js       [39m[1m[2m  0.44 kB[22m[1m[22m[2m │ gzip:   0.28 kB[22m[2m │ map:     0.12 kB[22m
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[36massets/index-4fb8b842.js                            [39m[1m[2m  0.53 kB[22m[1m[22m[2m │ gzip:   0.34 kB[22m[2m │ map:     4.30 kB[22m
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[36massets/react-18-61705542.js                         [39m[1m[2m  0.59 kB[22m[1m[22m[2m │ gzip:   0.38 kB[22m[2m │ map:     2.63 kB[22m
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[36massets/preview-0435c720.js                          [39m[1m[2m  0.69 kB[22m[1m[22m[2m │ gzip:   0.49 kB[22m[2m │ map:     3.86 kB[22m
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[36massets/_commonjsHelpers-042e6b4d.js                 [39m[1m[2m  0.78 kB[22m[1m[22m[2m │ gzip:   0.44 kB[22m[2m │ map:     0.11 kB[22m
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[36massets/preview-06e7c0cc.js                          [39m[1m[2m  0.79 kB[22m[1m[22m[2m │ gzip:   0.47 kB[22m[2m │ map:     1.28 kB[22m
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[36massets/index-4d501b15.js                            [39m[1m[2m  0.80 kB[22m[1m[22m[2m │ gzip:   0.52 kB[22m[2m │ map:     4.14 kB[22m
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[36massets/index-356e4a49.js                            [39m[1m[2m  0.81 kB[22m[1m[22m[2m │ gzip:   0.51 kB[22m[2m │ map:     3.27 kB[22m
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[36massets/preview-b1164a2e.js                          [39m[1m[2m  0.88 kB[22m[1m[22m[2m │ gzip:   0.58 kB[22m[2m │ map:     2.84 kB[22m
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[36massets/jsx-runtime-670450c2.js                      [39m[1m[2m  1.06 kB[22m[1m[22m[2m │ gzip:   0.66 kB[22m[2m │ map:     2.32 kB[22m
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[36massets/DocsRenderer-7FRJXR4N-93a743bc.js            [39m[1m[2m  1.30 kB[22m[1m[22m[2m │ gzip:   0.70 kB[22m[2m │ map:     2.44 kB[22m
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[36massets/Button.stories-7036f119.js                   [39m[1m[2m  2.16 kB[22m[1m[22m[2m │ gzip:   0.99 kB[22m[2m │ map:     2.36 kB[22m
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[36massets/preview-bb5acd95.js                          [39m[1m[2m  2.38 kB[22m[1m[22m[2m │ gzip:   1.26 kB[22m[2m │ map:    10.39 kB[22m
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[36massets/index-d37d4223.js                            [39m[1m[2m  2.63 kB[22m[1m[22m[2m │ gzip:   1.30 kB[22m[2m │ map:     7.48 kB[22m
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[36massets/preview-f96f0111.js                          [39m[1m[2m  3.29 kB[22m[1m[22m[2m │ gzip:   1.41 kB[22m[2m │ map:    10.12 kB[22m
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[36massets/iframe-76ab8c7b.js                           [39m[1m[2m  4.35 kB[22m[1m[22m[2m │ gzip:   1.64 kB[22m[2m │ map:     5.30 kB[22m
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[36massets/Introduction-b988117f.js                     [39m[1m[2m  6.68 kB[22m[1m[22m[2m │ gzip:   2.22 kB[22m[2m │ map:    12.05 kB[22m
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[36massets/index-f1f749bf.js                            [39m[1m[2m  7.25 kB[22m[1m[22m[2m │ gzip:   2.96 kB[22m[2m │ map:    15.72 kB[22m
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[36massets/preview-62235626.js                          [39m[1m[2m  7.69 kB[22m[1m[22m[2m │ gzip:   1.60 kB[22m[2m │ map:    13.73 kB[22m
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[36massets/preview-e6f1f377.js                          [39m[1m[2m  7.97 kB[22m[1m[22m[2m │ gzip:   3.03 kB[22m[2m │ map:    28.21 kB[22m
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[36massets/GlobalScrollAreaStyles-XIHNDKUY-4f1d19bd.js  [39m[1m[2m 10.40 kB[22m[1m[22m[2m │ gzip:   2.34 kB[22m[2m │ map:    15.72 kB[22m
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[36massets/preview-643ac584.js                          [39m[1m[2m 21.08 kB[22m[1m[22m[2m │ gzip:   6.99 kB[22m[2m │ map:    68.06 kB[22m
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[36massets/Color-3YIJY6X7-553fb0da.js                   [39m[1m[2m 30.98 kB[22m[1m[22m[2m │ gzip:  11.62 kB[22m[2m │ map:   112.65 kB[22m
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[36massets/OverlayScrollbars-VAV6LJAB-8c14665b.js       [39m[1m[2m 58.97 kB[22m[1m[22m[2m │ gzip:  25.28 kB[22m[2m │ map:   277.33 kB[22m
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[36massets/index-f64090b0.js                            [39m[1m[2m212.67 kB[22m[1m[22m[2m │ gzip:  66.50 kB[22m[2m │ map:   652.80 kB[22m
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[36massets/config-6c7140a7.js                           [39m[1m[2m213.66 kB[22m[1m[22m[2m │ gzip:  66.39 kB[22m[2m │ map:   803.21 kB[22m
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[36massets/index-4e2a10fb.js                            [39m[1m[33m503.40 kB[39m[22m[2m │ gzip: 165.70 kB[22m[2m │ map: 1,435.20 kB[22m
+[2m../../../../../AppData/Local/Temp/chromatic--5216-c4zivlzIQ3He/[22m[36massets/formatter-S4K5WUZV-c58542ac.js               [39m[1m[33m601.63 kB[39m[22m[2m │ gzip: 185.03 kB[22m[2m │ map: 1,315.99 kB[22m
+[33m
+(!) Some chunks are larger than 500 kBs after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/configuration-options/#output-manualchunks
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.[39m
+[32m✓[39m built in 57.51s
+info => Output directory: C:\Users\PC\AppData\Local\Temp\chromatic--5216-c4zivlzIQ3He
